@@ -9,7 +9,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-**[Try the Live Application on Hugging Face Spaces](https://huggingface.co/spaces/your-username/uae-legal-assistant)** *(Update this link to your actual space)*
+**[Try the Live Application on Streamlit Community Cloud](https://multi-agent-rag-assistant-mj.streamlit.app/)**
 
 A portfolio-grade, cross-platform Multi-Agent Retrieval-Augmented Generation (RAG) system built to query and synthesize United Arab Emirates (UAE) Federal Labor Law and Data Protection Law.
 
