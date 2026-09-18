@@ -7,7 +7,9 @@ langgraph
 langchain-openai
 langchain-pinecone
 langchain-huggingface
-pinecone-client
+#pinecone-client
+pinecone
+langchain-pinecone
 streamlit
 sentence-transformers
 python-dotenv

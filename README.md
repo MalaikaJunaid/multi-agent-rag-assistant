@@ -230,8 +230,8 @@ This project is open-source. Please refer to the LICENSE file for details.
 ## 👤 Author
 
 **Malaika Junaid**
-
 AI Software Engineer specializing in enterprise-grade RAG architectures, computer vision, and multi-agent systems. Previous work includes serving as Lead Developer for the 1st-prize winning Seevia AI perception ecosystem and completing the Headstarter AI Software Engineering Fellowship. Currently exploring AI engineering and platform roles.
+
 ---
 
 **Last Updated:** September 2026
