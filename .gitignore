@@ -1,5 +1,13 @@
+# Environments & Secrets
 venv/
-__pycache__/
 .env
+__pycache__/
+*.pyc
+
+# Local Data & Caches
 data/
-*.pdf
+.agents/
+.chat_history/
+
+# OS Files
+.DS_Store

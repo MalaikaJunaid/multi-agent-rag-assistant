@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-openai
+langchain-pinecone
+langchain-huggingface
+pinecone-client
+streamlit
+sentence-transformers
+python-dotenv
+pypdf
