@@ -35,7 +35,7 @@ The frontend is built with **Streamlit** using a **modular component-based struc
 - **`utils.py`** – Shared utility functions for API calls and message formatting
 - **`__init__.py`** – Clean exports for all components
 
-This modular approach keeps `app.py` clean (~100 lines) and makes the codebase easy to extend.
+This modular approach keeps `app.py` clean and makes the codebase easy to extend.
 
 ## 🛠️ Tech Stack
 
